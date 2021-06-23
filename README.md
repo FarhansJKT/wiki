@@ -16,7 +16,9 @@
 </p>
 
 ## Tentang Script
-`Script ini diciptakan untuk kalian yang bingung mau apa di termux saat baru pertama kali mendownload`
+```bash
+Script ini diciptakan untuk kalian yang bingung mau apa di termux saat baru pertama kali mendownload`
+```
 
 ## Install
 Ikuti aja ngab
