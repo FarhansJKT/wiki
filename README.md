@@ -15,6 +15,9 @@
 <a href="https://github.com/Riripii/nembakcewe/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Riripii/wiki?color=red&style=flat-square"></a>
 </p>
 
+## Tentang Script
+`Script ini diciptakan untuk kalian yang bingung mau apa di termux saat baru pertama kali mendownload`
+
 ## Install
 Ikuti aja ngab
 
