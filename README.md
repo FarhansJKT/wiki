@@ -1,6 +1,4 @@
-<p align="center">
-![Terkey Termux Key](termux.png)
-</p>
+![logo](termux.png)
 <br>
 
 
